@@ -1,3 +1,3 @@
-# Project Management Repo for Push to v1.0 Beta
+# Project Management Repo for Push to v1.0 Beta/RC
 
 This repo is simply a bucket for tracking issues related to the push to v1.0 beta/RC.
